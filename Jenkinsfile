@@ -12,7 +12,8 @@ pipeline {
                 sh """
                   pwd
                   ls -l
-                  pwd
+                  top
+                  
                   
                 """
             }
