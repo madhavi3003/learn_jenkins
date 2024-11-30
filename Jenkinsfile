@@ -13,7 +13,7 @@ pipeline {
                   pwd
                   ls -l
                   top
-                  pwd
+                  
                   
                   
                 """
